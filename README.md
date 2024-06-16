@@ -9,6 +9,8 @@
    
 ## Роуты
 
+Документация доступна по ссылке http://localhost:8000/docs
+
 1. Коррекция изображения
    ```python
    import requests
