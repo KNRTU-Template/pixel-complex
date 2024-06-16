@@ -1,0 +1,8 @@
+services:
+  web:
+    container_name: "lct-pixel"
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./storage:/src/storage
